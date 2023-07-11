@@ -162,7 +162,7 @@ Thanks go to these wonderful people:
 [license-shield]: https://img.shields.io/github/license/samarthNV/Worker-Connect.svg?style=for-the-badge
 [license-url]: https://github.com/samarthNV/Worker-Connect/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/thesiddheshdesai
+[linkedin-url]: https://www.linkedin.com/in/samarth-bura-25717622a/
 [html]: https://img.shields.io/badge/HTML-20232A?style=for-the-badge&logo=html5&logoColor=61DAFB
 [html-url]: https://developer.mozilla.org/en-US/docs/Web/HTML
 [css]: https://img.shields.io/badge/Css-000000?style=for-the-badge&logo=css3&logoColor=white
