@@ -9,7 +9,7 @@
 <!-- PROJECT LOGO -->
 <br/>
 <div align="center">
-  <a href="https://github.com/siddhesh-desai/Worker-Connect">
+  <a href="https://github.com/samarthNV/Worker-Connect">
     <img src="images/Worker-Connect-logo.png" alt="Logo">
   </a>
     <br>
@@ -21,13 +21,13 @@
     Worker-Connect is a comprehensive platform designed to bridge the gap between blue-collar workers and individuals in need of their services. 
     <br />
     <br>
-    <a href="https://github.com/siddhesh-desai/Worker-Connect"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/samarthNV/Worker-Connect"><strong>Explore the docs »</strong></a>
     <br />
-    <a href="https://github.com/siddhesh-desai/Worker-Connect">View Demo</a>
+    <a href="https://github.com/samarthNV/Worker-Connect">View Demo</a>
     ·
-    <a href="https://github.com/siddhesh-desai/Worker-Connect/issues">Report Bug</a>
+    <a href="https://github.com/samarthNV/Worker-Connect/issues">Report Bug</a>
     ·
-    <a href="https://github.com/siddhesh-desai/Worker-Connect/issues">Request Feature</a>
+    <a href="https://github.com/samarthNV/Worker-Connect/issues">Request Feature</a>
   </p>
 </div>
 
@@ -80,7 +80,7 @@ You need to setup you MongoDB Clusters priorly and then follow the steps.
 1. Clone the repository
 
    ```sh
-   git clone https://github.com/siddhesh-desai/Worker-Connect.git
+   git clone https://github.com/samarthNV/Worker-Connect.git
    ```
 
 2. Install the dependencies:
@@ -111,7 +111,7 @@ You need to setup you MongoDB Clusters priorly and then follow the steps.
 - [x] Add Tasks
 - [x] Worker Profile with Ratings
 
-See the [open issues](https://github.com/siddhesh-desai/Worker-Connect/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/samarthNV/Worker-Connect/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -136,9 +136,9 @@ Don't forget to give the project a star! Thanks again!
 
 ## 📧 Contact
 
-Siddhesh Desai - [@thesiddheshdesai](https://www.linkedin.com/in/thesiddheshdesai/) - siddheshdesai777@gmail.com
+Samarth Bura - [@samarth_bura](https://www.linkedin.com/in/samarth-bura-25717622a/) - samarthvbura@gmail.com
 
-Project Link: [https://github.com/siddhesh-desai/Worker-Connect](https://github.com/siddhesh-desai/Worker-Connect)
+Project Link: [https://github.com/samarthNV/Worker-Connect](https://github.com/samarthNV/Worker-Connect)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -151,16 +151,16 @@ Thanks go to these wonderful people:
 - [Sanket Disale](https://github.com/sanketdisale871/)
 - [Samarth Bura](https://github.com/samarthNV/)
 
-[contributors-shield]: https://img.shields.io/github/contributors/siddhesh-desai/Worker-Connect.svg?style=for-the-badge
-[contributors-url]: https://github.com/siddhesh-desai/Worker-Connect/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/siddhesh-desai/Worker-Connect.svg?style=for-the-badge
-[forks-url]: https://github.com/siddhesh-desai/Worker-Connect/network/members
-[stars-shield]: https://img.shields.io/github/stars/siddhesh-desai/Worker-Connect.svg?style=for-the-badge
-[stars-url]: https://github.com/siddhesh-desai/Worker-Connect/stargazers
-[issues-shield]: https://img.shields.io/github/issues/siddhesh-desai/Worker-Connect.svg?style=for-the-badge
-[issues-url]: https://github.com/siddhesh-desai/Worker-Connect/issues
-[license-shield]: https://img.shields.io/github/license/siddhesh-desai/Worker-Connect.svg?style=for-the-badge
-[license-url]: https://github.com/siddhesh-desai/Worker-Connect/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/samarthNV/Worker-Connect.svg?style=for-the-badge
+[contributors-url]: https://github.com/samarthNV/Worker-Connect/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/samarthNV/Worker-Connect.svg?style=for-the-badge
+[forks-url]: https://github.com/samarthNV/Worker-Connect/network/members
+[stars-shield]: https://img.shields.io/github/stars/samarthNV/Worker-Connect.svg?style=for-the-badge
+[stars-url]: https://github.com/samarthNV/Worker-Connect/stargazers
+[issues-shield]: https://img.shields.io/github/issues/samarthNV/Worker-Connect.svg?style=for-the-badge
+[issues-url]: https://github.com/samarthNV/Worker-Connect/issues
+[license-shield]: https://img.shields.io/github/license/samarthNV/Worker-Connect.svg?style=for-the-badge
+[license-url]: https://github.com/samarthNV/Worker-Connect/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/thesiddheshdesai
 [html]: https://img.shields.io/badge/HTML-20232A?style=for-the-badge&logo=html5&logoColor=61DAFB
